@@ -91,7 +91,7 @@ const Layout = ({ children }) => {
       >
         <br />
         <main style={{ width: "100%" }}>
-          {children && <Container>{children}</Container>}
+          <Container>{children}</Container>
         </main>
       </div>
     </>

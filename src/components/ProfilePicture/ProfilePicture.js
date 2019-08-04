@@ -2,8 +2,7 @@ import React from "react"
 import styled from "styled-components"
 
 export const ProfilePicture = styled.img.attrs({
-  src:
-    "https://files.slack.com/files-pri/T029GSSUD-FLQE44XFS/image_from_ios.jpg",
+  src: "https://i.imgur.com/RUlnL48.png",
 })`
   height: 150px;
   width: 150px;
