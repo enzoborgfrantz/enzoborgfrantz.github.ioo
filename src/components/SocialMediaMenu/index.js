@@ -1,0 +1,1 @@
+export { SocialMediaMenu } from "./SocialMediaMenu"
